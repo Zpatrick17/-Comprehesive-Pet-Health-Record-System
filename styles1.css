@@ -1,0 +1,51 @@
+body {
+    background-image: url('path_to_your_pet_background_image.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+.form-container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    margin: 100px auto; /* Center the form */
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+.login-btn {
+    background-color: #4CAF50; /* Green background */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 0; /* Space between buttons */
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+a {
+    color: #4CAF50; /* Match link color with button */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
