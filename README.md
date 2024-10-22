@@ -19,4 +19,4 @@ Ang **Comprehensive Pet Health Record System** ay isang web-based na application
 ## Pag-install
 1. **Clone ang Repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/Zpatrick17/Comprehensive Pet Health Record System.git
